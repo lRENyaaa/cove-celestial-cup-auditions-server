@@ -1,0 +1,6 @@
+shiro:
+  ws:
+    access-token: ""
+    client:
+      enable: true
+      url: "ws://127.0.0.1:3001/"

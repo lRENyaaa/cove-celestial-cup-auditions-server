@@ -1,0 +1,4 @@
+rootProject.name = 'cove-celestial-cup-auditions-server'
+include 'jphira-mp-logger'
+include 'jphira-mp-main'
+
